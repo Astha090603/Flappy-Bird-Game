@@ -17,10 +17,10 @@ Tap the screen to keep your adorable bird afloat through a series of obstacles. 
 
 ## Contributing
 
-We welcome contributions from developers of all skill levels! Whether you're interested in fixing bugs, adding new features, or improving the overall game experience, your input is highly valued. Simply fork the repository, make your changes, and submit a pull request. Together, we can make Fallpy Bird the best it can be!
+We welcome contributions from developers of all skill levels! Whether you're interested in fixing bugs, adding new features, or improving the overall game experience, your input is highly valued. Simply fork the repository, make your changes, and submit a pull request. Together, we can make Flappy Bird the best it can be!
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us via email at [astha090603@gmail.com](mailto:astha090603@gmail.com) or by opening an issue on GitHub. Your input helps us continue to refine and enhance the Fallpy Bird experience for players everywhere.
+If you have any questions, suggestions, or feedback, feel free to reach out to us via email at [astha090603@gmail.com](mailto:astha090603@gmail.com) or by opening an issue on GitHub. Your input helps us continue to refine and enhance the Flappy Bird experience for players everywhere.
 
-Join us on the journey to bring joy and entertainment to mobile gamers worldwide with Fallpy Bird!
+Join us on the journey to bring joy and entertainment to mobile gamers worldwide with Flappy Bird!
